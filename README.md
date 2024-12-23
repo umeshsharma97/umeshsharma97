@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @umeshbhardwaj
 - 👀 I’m interested in Datascientists projects.
-- 🌱 I’m currently learning data science.
+- 🌱 Certified data scientist.
   
 
 
